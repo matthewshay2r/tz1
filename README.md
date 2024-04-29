@@ -1,15 +1,19 @@
 Техническое задание 1
-
+##
 INPUT
+##
 <img width="914" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/039627c9-a809-437b-a149-087d37ec4ffc">
-
+##
 OUTPUT(ДО)
+##
 <img width="914" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/4c7a4f16-e8fe-4c57-98b7-b1390365df5e">
-
+##
 Запуск скрипта
+##
 <img width="573" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/ac9d1b7b-1a77-4d1b-ae7e-0945b3b19824">
-
-Результат
+##
+OUTPUT(После)
+##
 <img width="924" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/896510d4-5b41-4b60-8d57-60cb8a36d004">
 <img width="924" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/f45a6c40-e057-41a5-a124-d85b00feff30">
 <img width="924" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/7ee4bb08-73f7-4cd6-b456-197a233524a9">
