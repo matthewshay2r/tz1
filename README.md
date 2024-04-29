@@ -1,4 +1,4 @@
-<img width="924" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/e3f5c1d1-796a-4465-b699-455499648dad">Техническое задание 1
+Техническое задание 1
 
 INPUT
 <img width="914" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/039627c9-a809-437b-a149-087d37ec4ffc">
@@ -19,5 +19,6 @@ OUTPUT(ДО)
 <img width="924" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/7d3fd6fe-1fd0-4b5e-853d-f2fb373d2591">
 <img width="924" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/fbed03b1-11ae-48e2-a127-125acfb609dd">
 <img width="924" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/2062e0b5-6a37-4af5-b5af-59df4b928874">
+<img width="924" alt="image" src="https://github.com/matthewshay2r/tz1/assets/148196025/e3f5c1d1-796a-4465-b699-455499648dad">
 
 
